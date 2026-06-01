@@ -14,6 +14,7 @@ Security tools and implementations I've built, all in standard-library Python.
 | --- | --- | --- |
 | [Intrusion Detection System](https://github.com/Hanzxc/intrusion-detection-system) | Anomaly detection | Learns a baseline from activity data, then flags days that drift too far using weighted deviations against a calculated threshold |
 | [Lamport OTP](https://github.com/Hanzxc/lamport-otp) | Cryptography | Hash-chain one-time password scheme built from the ground up |
+| [TOTP Simulator](https://github.com/Hanzxc/totp-simulator) | Cryptography | Time-based one-time passwords per RFC 6238 in standard-library Python |
 
 ## What I'm doing right now
 
