@@ -1,46 +1,45 @@
-# Hi, I’m Jun Han 👋
+# Hi, I'm Jun Han 👋
 
-Cybersecurity student at UOW/SIM, former data-centre engineer, and OSCP-track learner.
+Cybersecurity student at UOW/SIM, former data-centre engineer, and OSCP-track learner based in Singapore.
 
-I like practical security work: Linux, enumeration, web testing fundamentals, infrastructure hardening, automation, and clean technical notes.
+I focus on practical offensive security: Linux, enumeration, web exploitation, privilege escalation, and clear technical writeups. I came up through infrastructure operations, so I care about reliability, procedure, and documentation, not just running tools.
 
-[Portfolio](https://hanzxc.github.io) · [GitHub](https://github.com/Hanzxc)
+[Portfolio](https://hanzxc.github.io) · [Resume](https://hanzxc.github.io/resume.html)
 
-## What I’m building
+## Projects
 
-| Project | Status | Why it matters |
-|---|---:|---|
-| [Cybersecurity Portfolio](https://hanzxc.github.io) | Live | Presents my security direction, resume snapshot, and project roadmap. |
-| ReconForge | Building next | OSCP-style recon report generator for parsing scan output and creating clean Markdown notes. |
-| Updatr | Planned | Vulnerability-aware patch tracker for homelabs and small teams. |
-| Security Lab Workflow | Ongoing | Structured HTB/THM-style notes for enumeration, web testing, privilege escalation, and lessons learned. |
+Security tools and implementations I've built, all in standard-library Python.
 
-## Current focus
+| Project | Area | What it does |
+| --- | --- | --- |
+| [Intrusion Detection System](https://github.com/Hanzxc/intrusion-detection-system) | Anomaly detection | Learns a baseline from activity data, then flags days that drift too far using weighted deviations against a calculated threshold |
+| [Lamport OTP](https://github.com/Hanzxc/lamport-otp) | Cryptography | Hash-chain one-time password scheme built from the ground up |
 
-- Building job-ready cybersecurity portfolio projects
-- Practicing legal lab workflows for OSCP-style fundamentals
-- Improving Python/Bash automation for security reporting
-- Turning study notes into clear public artifacts
+## What I'm doing right now
 
-## Technical toolkit
+- Working through OSCP-track material: enumeration, web app exploitation, buffer overflows, and privilege escalation
+- Practising on Hack The Box and PortSwigger Web Security Academy
+- Building small Python and Bash tools to cut the repetitive parts of recon and reporting
+- Turning study work into clean public projects
 
-![Python](https://img.shields.io/badge/Python-automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Linux-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-version_control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-web_testing-FF6633?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-enumeration-4682B4?style=for-the-badge)
+## Building next
+
+- ReconForge: a recon parser that turns scan output into clean Markdown notes
+
+## Toolkit
+
+Python · Bash · Linux · Git · Nmap · Burp Suite · Gobuster · Hydra · Hashcat · gdb
 
 ## My angle
 
-I come from infrastructure operations, so I care about reliability, documentation, and procedures — not just flashy tools. I’m now building offensive-security fundamentals so I can understand attacker behavior and contribute to practical defense.
+I come from infrastructure operations at Equinix and Alibaba Cloud, where uptime, procedure, and documentation are not optional. I'm now building offensive-security fundamentals so I understand attacker behaviour and can contribute to practical defence.
 
-```text
+```
 rack -> linux -> scripts -> security notes -> better decisions
 ```
 
 ## For recruiters
 
-I am aiming for junior cybersecurity, SOC, infrastructure security, or security engineering internship roles.
+I'm aiming for junior cybersecurity, SOC, infrastructure security, or security engineering internship roles in Singapore.
 
-The short version: I bring real infrastructure experience, a security-first learning path, and the ability to automate and document technical workflows clearly.
+Short version: real infrastructure experience, a deliberate security-first learning path, and the habit of automating and documenting technical work clearly. I'm early in offensive security, but I'm building in public and improving through practice.
