@@ -1,8 +1,8 @@
 # Hi, I'm Jun Han 👋
 
-Cybersecurity student at UOW/SIM, former data-centre engineer, and OSCP-track learner based in Singapore.
+Cybersecurity student at UOW/SIM with hands-on data center experience from Equinix and Alibaba Cloud, currently building OSCP-track skills in Singapore.
 
-I focus on practical offensive security: Linux, enumeration, web exploitation, privilege escalation, and clear technical writeups. I came up through infrastructure operations, so I care about reliability, procedure, and documentation, not just running tools.
+I focus on practical offensive security: Linux, enumeration, web exploitation, privilege escalation, and clear technical writeups. My infrastructure background taught me to care about reliability, procedure, and documentation, not just running tools.
 
 [Portfolio](https://hanzxc.github.io) · [Resume](https://hanzxc.github.io/resume.html)
 
@@ -33,7 +33,7 @@ Python · Bash · Linux · Git · Nmap · Burp Suite · Gobuster · Hydra · Has
 
 ## My angle
 
-I come from infrastructure operations at Equinix and Alibaba Cloud, where uptime, procedure, and documentation are not optional. I'm now building offensive-security fundamentals so I understand attacker behaviour and can contribute to practical defence.
+My background is infrastructure operations at Equinix and Alibaba Cloud, where uptime, procedure, and documentation are not optional. I'm now building offensive-security fundamentals so I understand attacker behaviour and can contribute to practical defence.
 
 ```
 rack -> linux -> scripts -> security notes -> better decisions
