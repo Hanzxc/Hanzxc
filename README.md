@@ -12,6 +12,7 @@ Security tools and implementations I've built, all in standard-library Python.
 
 | Project | Area | What it does |
 | --- | --- | --- |
+| [Auto OSCP Recon Notes](https://github.com/Hanzxc/auto-oscp-recon-notes) | OSCP workflow | Turns local Nmap XML into plain-text notes, service checklists, and a report template for authorized labs |
 | [Intrusion Detection System](https://github.com/Hanzxc/intrusion-detection-system) | Anomaly detection | Learns a baseline from activity data, then flags days that drift too far using weighted deviations against a calculated threshold |
 | [Lamport OTP](https://github.com/Hanzxc/lamport-otp) | Cryptography | Hash-chain one-time password scheme built from the ground up |
 | [TOTP Simulator](https://github.com/Hanzxc/totp-simulator) | Cryptography | Time-based one-time passwords per RFC 6238 in standard-library Python |
@@ -25,7 +26,8 @@ Security tools and implementations I've built, all in standard-library Python.
 
 ## Building next
 
-- ReconForge: a recon parser that turns scan output into clean Markdown notes
+- Add plain-text Nmap, ffuf, and gobuster imports to Auto OSCP Recon Notes
+- Write short legal lab notes that focus on methodology and lessons learned
 
 ## Toolkit
 
